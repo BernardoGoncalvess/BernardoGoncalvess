@@ -7,7 +7,6 @@ Full Stack Web Developer
 Hi! I started to learn code in January 2024. It's really something that I like a lot and I'm looking forward for an oportunity on the industry.
 
 * 🌍  I'm based in Portugal
-* ✉️  You can contact me at [bfilipe42@gmail.com](mailto:bfilipe42@gmail.com)
 * 🚀  I'm currently working on [My portfolio](http://bernardogoncalvess.github.io/Portfolio/)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on simple projects to learn new things
