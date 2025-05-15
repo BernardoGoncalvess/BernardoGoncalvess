@@ -2,6 +2,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&letterSpacing=2px&duration=2000&pause=0400&color=0097F7&center=true&width=830&lines=Bernardo+Gon%C3%A7alves;Hi!+My+name+is" alt="Typing SVG" /></a>
 
+  <img src="firepc.gif" alt="octocat" width="50" />
+
 </br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </br>
