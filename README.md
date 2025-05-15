@@ -3,7 +3,7 @@
     Happy to see you here exploring my README code
     Feel free to inspire!
 
-    But may I please ask you to follow me in return? Just a click! :))
+    But may I please ask you to follow me in return? Just a click! :)
 -->
 
 <!--Initial secction-->
