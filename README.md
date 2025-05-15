@@ -40,3 +40,9 @@ I'm also interested in networking and connecting with other developers to grow a
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,sublime,windows,figma,notion)](https://skillicons.dev)
 
 </div>
+
+<div align="center">
+
+![snake gif](https://github.com/BernardoGoncalvess/BernardoGoncalvess/blob/output/github-snake-dark.svg)
+
+</div>
