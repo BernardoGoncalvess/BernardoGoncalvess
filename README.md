@@ -9,7 +9,7 @@
 <!--About me-->
 
 <!--Stack-->
-
+<div align="left" width=400px>
 ## My Stack
 
 ### Front-end
@@ -23,4 +23,5 @@
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,sublime,windows,figma,notion)](https://skillicons.dev)
+</div>
 </div>
