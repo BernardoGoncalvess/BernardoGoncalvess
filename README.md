@@ -2,4 +2,6 @@
 </br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h2>Hello World</h2>
+<h1>Hello World</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,github,git,vscode,sublime,windows,figma,notion)](https://skillicons.dev)
