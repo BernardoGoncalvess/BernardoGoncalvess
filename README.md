@@ -9,7 +9,7 @@
 </div>
 
 <!--About me-->
-<div align="center">
+<div align="left">
 
 ## About me
 
