@@ -45,4 +45,6 @@ I'm also interested in networking and connecting with other developers to grow a
 
 ![snake gif](https://github.com/BernardoGoncalvess/BernardoGoncalvess/blob/output/github-snake-dark.svg)
 
+![](https://komarev.com/ghpvc/?username=your-github-BernardoGoncalvess&color=blue)
+
 </div>
