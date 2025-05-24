@@ -8,7 +8,7 @@
 
 <!--Initial secction-->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=2000&pause=1000&center=true&width=435&lines=%E2%9B%B9%F0%9F%8F%BB+Bernardo+Gon%C3%A7alves" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&duration=2000&pause=1000&center=true&width=435&lines=%E2%9B%B9%F0%9F%8F%BB+Bernardo+Gon%C3%A7alves" alt="Typing SVG" /></a>
 </br>
 
   <img src="firepc.gif" alt="octocat" width="100" />
