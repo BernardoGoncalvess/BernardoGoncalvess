@@ -38,15 +38,15 @@ I'm also interested in networking and connecting with other developers to grow a
 
 ## 💻 My Stack
 
-### 🎨 Front-end
+### Front-end
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,md)](https://skillicons.dev)
 
-### 📀 Back-end
+### Back-end
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
 
-### 🔧 Tools
+### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,sublime,windows,figma,notion)](https://skillicons.dev)
 
