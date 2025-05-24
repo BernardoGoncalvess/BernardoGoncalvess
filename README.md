@@ -24,7 +24,7 @@
 <!--About me because I'm a really interesting person-->
 <div align="left">
 
-## About me
+## 👤 About me
 
 Hi! I'm Bernardo Gonçalves, a passionate and dedicated developer from Portugal.  
 I'm always eager to learn new things and constantly improve my skills.  
@@ -36,17 +36,17 @@ I'm also interested in networking and connecting with other developers to grow a
 <!--Stack because I already know a lot haha-->
 <div align="left" width=400px>
 
-## My Stack
+## 💻 My Stack
 
-### Front-end
+### 🎨 Front-end
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,md)](https://skillicons.dev)
 
-### Back-end
+### 📀 Back-end
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
 
-### Tools
+### 🔧 Tools
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,sublime,windows,figma,notion)](https://skillicons.dev)
 
