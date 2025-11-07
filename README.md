@@ -40,7 +40,7 @@ I'm also interested in networking and connecting with other developers to grow a
 
 ### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,md)](https://skillicons.dev)
 
 ### Back-end
 
@@ -51,3 +51,4 @@ I'm also interested in networking and connecting with other developers to grow a
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,sublime,windows,figma,notion)](https://skillicons.dev)
 
 </div>
+
