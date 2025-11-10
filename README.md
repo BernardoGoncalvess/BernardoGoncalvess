@@ -40,15 +40,16 @@ I'm also interested in networking and connecting with other developers to grow a
 
 ### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,md)](https://skillicons.dev)
 
 ### Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,sublime,windows,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,windows,figma)](https://skillicons.dev)
 
 </div>
+
 
